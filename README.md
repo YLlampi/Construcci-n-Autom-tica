@@ -1,21 +1,27 @@
-## 4. Instalación
+## INTEGRANTES
+* Llampi Hancco, Yamil Yonder
+* Humpiri Valdivia, Freddy Leonel
+* Torres Quispe, Erick Jesus
+* Sucso Choque, Angela Solange
+
+## 1. Instalación
 Para el uso de este software debe tener en consideración los siguientes aspectos:
-### 4.1. Requisitos de Software
+### 1.1. Requisitos de Software
 * Compilador de C++ que soporte el standar C++17.
 * Compilador recomendado: MinGW para Windows y G++ para Linux.
 * Tener instalado Cmake (versión minima 3.16)
 * Espacio en disco para la creación de las base de datos
 * Se recomienda un Editor de código como Visual Studio Code o IDEs como Clion o Visual Studio.
 
-### 4.2. Plataformas
+### 1.2. Plataformas
 El software puede ser ejecutado tanto en las plataformas Linux como Windows.
 
-### 4.3. Dependencias
+### 1.3. Dependencias
 Para que el software funcione correctamente no es necesaria la instalación de ninguna dependencia adicional.
 Solo se usaron las Librerías Estandar de C++.
 
 
-### 4.4. Instrucciones de instalación
+### 1.4. Instrucciones de instalación
 El proyecto puede ser ejecutado tanto en linux como windows. Se puede clonar el repositorio o descargar como ZIP y
 descomprimirlo en la carpeta donde desea crear la base de datos.
 Para comenzar la ejecución, úbiquese dentro de la carpeta clonada o descomprimida.

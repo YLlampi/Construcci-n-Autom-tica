@@ -1,6 +1,7 @@
 ## INTEGRANTES
 * Llampi Hancco, Yamil Yonder
 * Humpiri Valdivia, Freddy Leonel
+* Cusi Hancco, Evelyn Lizbeth
 * Torres Quispe, Erick Jesus
 * Sucso Choque, Angela Solange
 
